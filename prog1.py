@@ -74,7 +74,7 @@ print('-------------------------------------')
 #For com range que retorna o valor do contador o conteudo
 for numero in range(10):
     if numero % 2 == 0:
-        print("O número", numero, "é par" 
+        print("O número", numero, "é par") 
 print('-------------------------------------')
 
 #For com enumerete
