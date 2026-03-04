@@ -82,7 +82,7 @@ for i, j in enumerate(range(10, 1, - 1)):
     print(i, j)
 print('-------------------------------------')
 
-#For alinhado
+#For alinhadoo
 for numero_coluna1 in range(2, 5):
     print("Tabuada do ", numero_coluna1)
     for numero_coluna2 in range(11):
