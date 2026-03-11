@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # 1. Carregar o CSV
-df = pd.read_csv("evolucao_ia.csv")
+df = pd.read_csv("C:/Users/lara.ewellen/Documents/Inteligencia-Artificial/aula 2/evolucao_ia.csv")
 
 # 2. Mostrar tabela
 print("Linha do tempo da IA:")
