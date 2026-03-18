@@ -1,0 +1,1 @@
+C:/Users/user/Pictures/Inteligencia-Artificial/atividade ciencia de dados/train (1).csv
